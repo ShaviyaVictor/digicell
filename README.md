@@ -1,7 +1,7 @@
 # Digicell
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.4.     
-![digicel](https://github.com/ShaviyaVictor/digi_news/blob/main/src/assets/digi_news_screenshot.png)
+![digicel](https://github.com/ShaviyaVictor/digicell/blob/main/src/Screenshot%20from%202022-03-24%2007-30-01.png)
 
 ## Project Description
 This is a clone of Digicel's gradient background and their Logo trial.
