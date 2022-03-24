@@ -1,0 +1,15 @@
+/* .col-example {
+  padding: 1rem;
+  background-color: #33b5e5;
+  border: 2px solid #fff;
+  color: #fff;
+  text-align: center;
+} */
+
+.col-example h1 {
+  font-size: 10vw;
+}
+.rotate {
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
+}

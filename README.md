@@ -1,27 +1,38 @@
-# Digicel
+# Digicell
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.4.     
+![digicel](https://github.com/ShaviyaVictor/digi_news/blob/main/src/assets/digi_news_screenshot.png)
 
-## Development server
+## Project Description
+This is a clone of Digicel's gradient background and their Logo trial.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+#### Live link to site
+The project was deployed to GitHub pages for publication.     
+To view the [project's live site](#).
 
-## Code scaffolding
+#### Author
+**Victor Shaviya**
+Moringa School Core Student.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Project Setup Instructions
+- Open Terminal {Ctrl+Alt+T}     
+- git clone [digicell](#)      
+- cd digicell      
+- code . or atom . based on the text editor you have.
 
-## Build
+#### How the project works
+1. Check it out
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Technologies Used
+- HTML - to provide the structure of the web application
+- Bootstrap - help in prestyling the application
+- CSS - help provide custom styles for the web application
+- Angular - to build a SPA
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## License and Copyright Information
+[MIT License](https://github.com/ShaviyaVictor/digi_news/blob/main/LICENSE)
+   
+  
+* **© Victor Shaviya**, Upskill task!        
+    - [LinkedIn](https://www.linkedin.com/in/victor-shaviya-532ab0110/)          
+    - [Instagram](https://www.instagram.com/ignition_reads/)

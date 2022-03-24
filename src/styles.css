@@ -1,1 +1,37 @@
 /* You can add global styles to this file, and also import other style files */
+/* font-family: 'Lora', serif; */
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@1,600&display=swap');
+/* For titles and headings
+font-family: 'Old Standard TT', serif; */
+@import url('https://fonts.googleapis.com/css2?family=Old+Standard+TT&display=swap');
+/* For paragraphs
+font-family: 'Karma', serif; */
+@import url('https://fonts.googleapis.com/css2?family=Karma&display=swap');
+/* For Links and NavBar
+font-family: 'Marcellus', serif; */
+@import url('https://fonts.googleapis.com/css2?family=Marcellus&display=swap');
+/* font for DIFICEL   font-family: 'Montserrat', sans-serif;  */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@800&display=swap');
+
+
+
+/* Start of NavBar styles */
+body {
+  background-image: linear-gradient(45deg,#EF4850, #B664D8 );
+  height: 100%;
+  margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif;
+  color: #FFF;
+}
+
+p {
+  font-family: 'Karma', serif;
+  color: #ED4430;
+}
+
+a, button {
+  font-family: 'Marcellus', serif;
+}
